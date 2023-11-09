@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Remera",
+    "description": "Remera estampada de algodón",
+    "price": 20000,
+    "thumbnail": "imagen1.jpg",
+    "code": "r1",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Zapatilla",
+    "description": "Air Max 97 have a day nike",
+    "price": 150000,
+    "thumbnail": "imagen2.jpg",
+    "code": "z1",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Pantalón",
+    "description": "Nike",
+    "price": 50000,
+    "thumbnail": "imagen3.jpg",
+    "code": "p1",
+    "stock": 7
+  },
+  {
+    "id": 4,
+    "title": "Camiseta Manchester",
+    "description": "Camiseta mangas corta",
+    "price": 25000,
+    "thumbnail": "imagen4.jpg",
+    "code": "c1",
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "title": "Zapatilla Adidas",
+    "description": "Zapatilla Adidas LifeStyle",
+    "price": 120000,
+    "thumbnail": "imagen5.jpg",
+    "code": "z2",
+    "stock": 20
+  },
+  {
+    "id": 6,
+    "title": "Pantalon Parachute",
+    "description": "Pantalon Parachute Nike",
+    "price": 60000,
+    "thumbnail": "imagen6.jpg",
+    "code": "p2",
+    "stock": 8
+  },
+  {
+    "id": 7,
+    "title": "Gorra Nike",
+    "description": "Gorra Nike con cinta de cuero",
+    "price": 15000,
+    "thumbnail": "imagen7.jpg",
+    "code": "g1",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Chaqueta Adidas",
+    "description": "Chaqueta de cuero Adidas",
+    "price": 90000,
+    "thumbnail": "imagen8.jpg",
+    "code": "ch1",
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "title": "Bufanda Milan",
+    "description": "Bufanda Oficial Milan",
+    "price": 18000,
+    "thumbnail": "imagen9.jpg",
+    "code": "b1",
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "title": "Remera Oversize",
+    "description": "Remera Oversize Porto",
+    "price": 80000,
+    "thumbnail": "imagen10.jpg",
+    "code": "r2",
+    "stock": 30
+  }
+]

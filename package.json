@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-3",
+  "version": "1.0.0",
+  "description": "Ecommerce de ropa estilosa",
+  "main": "server.js",  
+  "scripts": {
+    "start": "node server.js"  
+  },
+  "dependencies": {
+    "express": "^4.17.1"  
+  },
+  "author": "Nery Benincasa"
+}
